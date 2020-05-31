@@ -6,3 +6,7 @@
 
 Public information around
 [Shrugs.app](https://shrugs.app).
+
+Files issues over here: [GitHub Issues](https://github.com/ZeeZide/Shrugs/issues).
+
+And checkout the [Wiki](https://github.com/ZeeZide/Shrugs/wiki).
