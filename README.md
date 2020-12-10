@@ -1,6 +1,6 @@
 <h2>
   Shrugs.app
-  <img src="https://shrugs.app/images/MikadoSiteLogo.png"
+  <img src="https://zeezide.de/img/marzipan/MikadoBS512.png"
        align="right" width="128" height="128" />
 </h2>
 
